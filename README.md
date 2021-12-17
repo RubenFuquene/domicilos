@@ -51,11 +51,6 @@ Rubén Darío Fúquene Castiblanco - 20192020004 / Cristian Camilo Méndez Truji
 | Como administrador deseo poder generar un documento auditable sobre los pedidos recibidos por la plataforma |
 | prioridad: alta  | tiempo estimado: 8 días |
 
-| Título: Auditoria para el administrador | ID: 10 |
-| ------------- | ------------- |
-| Como administrador deseo poder generar un documento auditable sobre los pedidos recibidos por la plataforma |
-| prioridad: alta  | tiempo estimado: 8 días |
-
 | Título: Pago del domiciliario | ID: 11 |
 | ------------- | ------------- |
 | Como administrador deseo poder tener un documento en el cual se tenga la información de los servicios hechos por cada domiciliario para asimismo generarle un pago periódico |
