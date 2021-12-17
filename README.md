@@ -10,6 +10,8 @@ Rubén Darío Fúquene Castiblanco - 20192020004 / Cristian Camilo Méndez Truji
 | ------------- | ------------- |
 | Como cliente deseo poder agregar, eliminar y editar productos a mi listado de compras |
 | prioridad: alta  | tiempo estimado: 4 días |
+  # Calcular costo del domicilio
+    # Como cliente deseo saber el costo total del domicilio, prioridad alta, tiempo estimado 3 días
   # Cierre del pedido por el cliente
     # Como cliente deseo poder elegir mi método de pago y mi dirección de domicilio al cual serán enviados mis productos, prioridad alta, tiempo estimado 7 días
   # Recepción del pedido por el cajero
