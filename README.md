@@ -61,3 +61,7 @@ Rubén Darío Fúquene Castiblanco - 20192020004 / Cristian Camilo Méndez Truji
 | Como administrador deseo poder tener un documento en el cual se tenga la información de los servicios hechos por cada domiciliario para asimismo generarle un pago periódico |
 | prioridad: alta  | tiempo estimado: 10 días |
 
+| Título: Calcular costo del domicilio | ID: 12 |
+| ------------- | ------------- |
+| Como cliente deseo saber el costo total del domicilio |
+| prioridad: alta  | tiempo estimado: 3 días |
