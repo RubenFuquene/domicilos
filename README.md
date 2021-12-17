@@ -3,7 +3,7 @@ Rubén Darío Fúquene Castiblanco - 20192020004 / Cristian Camilo Méndez Truji
   # Listado de productos por parte del cliente
 | Título: Listado de productos por parte del cliente  | ID: 1 |
 | ------------- | ------------- |
-| Como cliente deseo poder ver los productos en existencia ||
+| Como cliente deseo poder ver los productos en existencia |
 | prioridad: alta  | tiempo estimado: 2 días |
   # Productos a comprar por el cliente
     # Como cliente deseo poder agregar, eliminar y editar productos a mi listado de compras, prioridad alta, tiempo estimado 4 días
