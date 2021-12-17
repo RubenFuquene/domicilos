@@ -16,6 +16,6 @@
   # Historia usuario 8
     # Como cliente deseo hacer un seguimiento en tiempo real de mi pedido y estimado de entrega, prioridad alta, tiempo estimado 8 días
   # Historia usuario 9
-    # Como cliente deseo poder ver los productos en existencia, prioridad alta, tiempo estimado 
+    # Como administrador deseo ver un inventario de los productos disponibles y poder establecer alertas sobre productos que estén a punto de agotarse, prioridad alta, tiempo estimado 4 días
   # Historia usuario 10
-    # Como cliente deseo poder ver los productos en existencia, prioridad alta, tiempo estimado 
+    # Como administrador deseo poder generar un documento auditable sobre los pedidos recibidos por la plataforma, prioridad alta, tiempo estimado 8 días
