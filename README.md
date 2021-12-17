@@ -1,6 +1,7 @@
 # Historias de usuario para sistema de domicilios
 Rubén Darío Fúquene Castiblanco - 20192020004 / Cristian Camilo Méndez Trujillo - 20191020139
   # Listado de productos por parte del cliente
+    |título|ID:1
     # Como cliente deseo poder ver los productos en existencia, prioridad alta, tiempo estimado 2 días
   # Productos a comprar por el cliente
     # Como cliente deseo poder agregar, eliminar y editar productos a mi listado de compras, prioridad alta, tiempo estimado 4 días
