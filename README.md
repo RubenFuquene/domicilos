@@ -65,4 +65,15 @@ Rubén Darío Fúquene Castiblanco - 20192020004 / Cristian Camilo Méndez Truji
 | Título: Almacenamiento de datos de clientes | ID: 13 |
 | ------------- | ------------- |
 | Como administrador deseo almacenar los datos de cada cliente nuevo que haga una compra con el propósito de poder hacer una consulta sobre esos datos de cada cliente para usos posteriores |
-| prioridad: alta  | tiempo estimado: 3 días |
+| prioridad: alta  | tiempo estimado: 6 días |
+
+| Título: Calificación domiciliarios | ID: 14 |
+| ------------- | ------------- |
+| Como administrador deseo poder conocer las experiencias que han tenido los clientes con los domiciliarios a través de un sistema que permita dar calificaciones a los mismos |
+| prioridad: media  | tiempo estimado: 5 días |
+
+
+| Título: Sistema PQRS | ID: 15 |
+| ------------- | ------------- |
+| Como cliente deseo tener un medio a través del cual pueda proporcionar a la tienda peticiones, quejas, reclamos y sugerencias con el fin de que ésta mejore |
+| prioridad: media  | tiempo estimado: 5 días |
