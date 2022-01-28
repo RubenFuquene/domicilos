@@ -60,3 +60,9 @@ Rubén Darío Fúquene Castiblanco - 20192020004 / Cristian Camilo Méndez Truji
 | ------------- | ------------- |
 | Como cliente deseo saber el costo total del domicilio |
 | prioridad: alta  | tiempo estimado: 3 días |
+
+
+| Título: Almacenamiento de datos de clientes | ID: 13 |
+| ------------- | ------------- |
+| Como administrador deseo almacenar los datos de cada cliente nuevo que haga una compra con el propósito de poder hacer una consulta sobre esos datos de cada cliente para usos posteriores |
+| prioridad: alta  | tiempo estimado: 3 días |
